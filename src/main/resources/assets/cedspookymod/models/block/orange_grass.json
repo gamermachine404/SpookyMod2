@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "cedspookymod:block/dirt",
+    "side": "cedspookymod:block/orange_grass_side",
+    "top": "cedspookymod:block/orange_grass_top"
+  }
+
+}

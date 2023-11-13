@@ -1,0 +1,6 @@
+{
+    "parent": "cedspookymod:item/flintlock",
+    "textures": {
+        "layer0": "cedspookymod:item/flintlockc"
+    }
+}
